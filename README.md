@@ -1,4 +1,4 @@
-# Project Name
+# Fuck Spotify
 
 Brief description of your project.
 
