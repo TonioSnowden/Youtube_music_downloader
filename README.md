@@ -17,8 +17,8 @@ Before you begin, ensure you have [Anaconda](https://www.anaconda.com/products/i
     First, clone the repository to your local machine using Git:
 
     ```
-    git clone https://github.com/yourusername/yourprojectname.git
-    cd yourprojectname
+    git clone git@github.com:TonioSnowden/Youtube_music_downloader.git
+    cd Youtube_music_downloader
     ```
 
 2. **Create the Conda Environment**
