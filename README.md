@@ -26,7 +26,7 @@ Before you begin, ensure you have [Anaconda](https://www.anaconda.com/products/i
     Create a new Conda environment with the required libraries:
 
     ```bash
-    conda create --name myenv python=3.8 pandas requests
+    conda create --name music_download python=3.8 pandas requests
     ```
 
     This will install Python and the `pandas` and `requests` libraries, which are necessary for the project.
@@ -36,7 +36,7 @@ Before you begin, ensure you have [Anaconda](https://www.anaconda.com/products/i
     Activate the newly created Conda environment:
 
     ```bash
-    conda activate myenv
+    conda activate music_download
     ```
 
 4. **Additional Dependencies**
